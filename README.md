@@ -1,4 +1,4 @@
-# JabRef Bibliography Management
+66ab8af02b6e08c60de6710e # JabRef Bibliography Management
 
 JabRef is an open-source, cross-platform citation and reference management tool.
 
